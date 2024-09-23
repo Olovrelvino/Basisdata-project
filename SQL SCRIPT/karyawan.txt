@@ -1,0 +1,4 @@
+ID_KARYAWAN,NAMA_KARYAWAN,ALAMAT_KARYAWAN,JABATAN
+1,Pak Bayu,Kerep,Owner
+2,Marcellinus Ronan,Kerep,Admin
+3,Mbak Pasiem,Pasekan,Housekeeper

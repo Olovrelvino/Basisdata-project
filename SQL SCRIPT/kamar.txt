@@ -1,0 +1,3 @@
+ID_KAMAR,LANTAI,JENIS_ID_JENIS
+1,Lantai 1,1
+2,Lantai 2,2
